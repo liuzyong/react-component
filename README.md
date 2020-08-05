@@ -1,7 +1,7 @@
 # reactComponent2npm
 ## 发布 react组件 的脚手架
-相关博客（详细说明）：<a href="https://juejin.im/post/5d6760b3e51d453b8b5fa60b">使用npm发布一个react组件</a>
 
+*** npm cnpm yarn 千万不要混用
 
 #### 开发组件
 + 安装依赖：

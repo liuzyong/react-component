@@ -1,6 +1,6 @@
 {
-  "name": "react-demo-component",
-  "version": "1.0.0",
+  "name": "lzy-react-component",
+  "version": "1.0.1",
   "description": "A test component demo",
   "main": "lib/index.js",
   "files": [
